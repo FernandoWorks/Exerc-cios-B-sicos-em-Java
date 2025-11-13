@@ -3,7 +3,7 @@
 package javaapplication1;
 import java.util.Scanner;
 
-public class Janela {
+public class Contador_de_positivos_e_negativos {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -30,3 +30,4 @@ public class Janela {
         System.out.println("Negativos: " + negativo);
     }
 }
+
